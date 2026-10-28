@@ -1,0 +1,4 @@
+order_id,client,sku,qty,status
+ORD-101,Nair & Sons,SKU-01,20,Pending
+ORD-102,Mehta Co,SKU-03,10,Pending
+ORD-103,Sharma Traders,SKU-02,6,Pending

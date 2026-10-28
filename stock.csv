@@ -1,0 +1,6 @@
+sku,item,qty_on_hand,reorder_level,avg_daily_sales,supplier,lead_days
+SKU-01,Rice 25kg bag,12,30,4,Annapurna Agro,3
+SKU-02,Cooking oil 15L,8,20,3,Sunrise Oils,2
+SKU-03,Sugar 50kg bag,90,40,2,Shree Sugars,4
+SKU-04,Wheat flour 10kg,18,25,3,Annapurna Agro,3
+SKU-05,Tea 1kg pack,60,20,1,Nilgiri Teas,5
